@@ -2,6 +2,7 @@
 
 
 Android Car and Taxi Booking App has the following features 
+
 1. View Cars 
 2. Search Cars 
 3. Login 
